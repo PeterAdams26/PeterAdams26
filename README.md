@@ -16,12 +16,6 @@ Me interesa el desarrollo backend y la construcción de aplicaciones web utiliza
 
 ## 🚀 Proyectos destacados
 
-### PetCare
-
-Sistema web para la gestión de clínicas veterinarias, mascotas, citas, historiales clínicos y vacunas.
-
-**Tecnologías:** Java, Spring Boot, React, MySQL, JWT y BCrypt.
-
 ### Sistema Web FIBERPERU
 
 Proyecto académico grupal en desarrollo para gestionar y dar seguimiento a solicitudes, órdenes de instalación, técnicos, dispositivos de red y evidencias de servicios realizados.
@@ -31,6 +25,13 @@ Proyecto académico grupal en desarrollo para gestionar y dar seguimiento a soli
 **Mi participación:** desarrollo colaborativo, gestión de funcionalidades y documentación del proyecto mediante Git y GitHub.
 
 https://github.com/CollabCodersUTP/Sistema_Web_FIBERPERU-
+
+### PetCare
+
+Sistema web para la gestión de clínicas veterinarias, mascotas, citas, historiales clínicos y vacunas.
+
+**Tecnologías:** Java, Spring Boot, React, MySQL, JWT y BCrypt.
+
 ## 🎯 Actualmente
 
 Busco oportunidades de prácticas preprofesionales en desarrollo de software, especialmente en desarrollo backend con Java y Spring Boot.
