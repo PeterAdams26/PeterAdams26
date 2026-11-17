@@ -22,12 +22,15 @@ Sistema web para la gestión de clínicas veterinarias, mascotas, citas, histori
 
 **Tecnologías:** Java, Spring Boot, React, MySQL, JWT y BCrypt.
 
-### Sistema de Ventas e Inventario
+### Sistema Web FIBERPERU
 
-Aplicación para gestionar productos, ventas, usuarios, inventario y operaciones internas.
+Proyecto académico grupal en desarrollo para gestionar y dar seguimiento a solicitudes, órdenes de instalación, técnicos, dispositivos de red y evidencias de servicios realizados.
 
-**Tecnologías:** Java, MySQL, Programación Orientada a Objetos y arquitectura por capas.
+**Tecnologías y herramientas:** Java, desarrollo web, base de datos, Git, GitHub y GitHub Actions.
 
+**Mi participación:** desarrollo colaborativo, gestión de funcionalidades y documentación del proyecto mediante Git y GitHub.
+
+https://github.com/CollabCodersUTP/Sistema_Web_FIBERPERU-
 ## 🎯 Actualmente
 
 Busco oportunidades de prácticas preprofesionales en desarrollo de software, especialmente en desarrollo backend con Java y Spring Boot.
