@@ -22,23 +22,23 @@ Aplicación web desarrollada en equipo para gestionar solicitudes, órdenes de i
 
 #### 🛠️ Tecnologías utilizadas
 
-https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 #### 👨‍💻 Mi participación
 
 - Desarrollo colaborativo de funcionalidades para la aplicación web.
 - Gestión del código mediante ramas y repositorios en GitHub.
-- Integración de cambios realizados por el equipo.
+- Integración de los cambios realizados por el equipo.
 - Resolución de conflictos durante la integración del código.
 - Elaboración y actualización de la documentación del proyecto.
 
-https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/CollabCodersUTP/Sistema_Web_FIBERPERU-)
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CollabCodersUTP/Sistema_Web_FIBERPERU-)
 
 ---
 
@@ -50,12 +50,12 @@ El sistema incorpora autenticación de usuarios y separación de responsabilidad
 
 #### 🛠️ Tecnologías utilizadas
 
-https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white
-https://img.shields.io/badge/BCrypt-Seguridad-4A5568?style=flat-square
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-Seguridad-4A5568?style=flat-square)
 
 #### 👨‍💻 Mi participación
 
@@ -67,22 +67,24 @@ https://img.shields.io/badge/BCrypt-Seguridad-4A5568?style=flat-square
 
 #### 🔗 Enlaces del proyecto
 
-https://img.shields.io/badge/Repositorio%20Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://github.com/GerardoDepazCruz/Veterinaria-PetCare)
-https://img.shields.io/badge/Repositorio%20Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://github.com/GerardoDepazCruz/frontend-petcare)
-https://img.shields.io/badge/Ver%20aplicación-00C7B7?style=for-the-badge&logo=netlify&logoColor=white](https://lovely-capybara-d4af71.netlify.app/cliente)
+[![Repositorio Backend](https://img.shields.io/badge/Repositorio%20Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/GerardoDepazCruz/Veterinaria-PetCare)
+[![Repositorio Frontend](https://img.shields.io/badge/Repositorio%20Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/GerardoDepazCruz/frontend-petcare)
+[![Ver aplicación](https://img.shields.io/badge/Ver%20aplicación-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://lovely-capybara-d4af71.netlify.app/cliente)
 
 ---
 
 ## 🎯 Actualmente
 
 - Busco oportunidades de prácticas preprofesionales en desarrollo de software.
-- Me encuentro especialmente interesado en el desarrollo backend con Java y Spring Boot.
+- Me interesa especialmente el desarrollo backend con Java y Spring Boot.
 - Continúo fortaleciendo mis conocimientos en APIs REST, bases de datos, seguridad, Git y buenas prácticas de desarrollo.
-- Estoy construyendo proyectos que demuestren mis habilidades técnicas, capacidad de aprendizaje y experiencia de trabajo en equipo.
+- Desarrollo proyectos que demuestran mis habilidades técnicas, capacidad de aprendizaje y experiencia de trabajo en equipo.
+
+---
 
 ## 📫 Contacto
 
 Si tienes una oportunidad de prácticas, un proyecto colaborativo o deseas conversar sobre desarrollo de software, puedes contactarme mediante:
 
-https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/peter-adams-/)
-https://img.shields.io/badge/Correo-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:peteradamssaldivar9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-adams-/)
+[![Correo](https://img.shields.io/badge/Correo-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteradamssaldivar9@gmail.com)
