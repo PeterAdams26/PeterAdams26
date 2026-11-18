@@ -28,9 +28,17 @@ https://github.com/CollabCodersUTP/Sistema_Web_FIBERPERU-
 
 ### PetCare
 
-Sistema web para la gestión de clínicas veterinarias, mascotas, citas, historiales clínicos y vacunas.
+Proyecto académico grupal para la gestión de clínicas veterinarias, mascotas, citas, historiales clínicos y vacunas.
 
-**Tecnologías:** Java, Spring Boot, React, MySQL, JWT y BCrypt.
+**Tecnologías del proyecto:** Java, Spring Boot, React, MySQL, JWT y BCrypt.
+
+**Mi participación:** desarrollo de controladores del backend y creación de la vista del perfil veterinario en el frontend.
+
+**Repositorio del backend:** https://github.com/GerardoDepazCruz/Veterinaria-PetCare
+
+**Repositorio del frontend:** https://github.com/GerardoDepazCruz/frontend-petcare
+
+**Aplicación desplegada:** https://lovely-capybara-d4af71.netlify.app/cliente
 
 ## 🎯 Actualmente
 
